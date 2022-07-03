@@ -1,3 +1,5 @@
 
 Optiver Realized Volatility/.DS_Store
 Optiver Realized Volatility/Peter Code/Data/*
+*.DS_Store
+*.ipynb_checkpoints
